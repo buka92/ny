@@ -1,0 +1,123 @@
+*{
+ background-color:  #fff;
+   }
+
+.center h1 {
+	text-align: center;
+	font-size: 100px;
+	text-transform: uppercase;
+	font-style: italic;
+	color: purple;
+}
+
+.chess .row {
+	width: 1440px;
+	margin: auto;
+	padding-top: 100px;
+}
+
+.drustvene-mreze .row {
+    width: 1440px;
+     margin: auto;
+     padding-top: 100px;
+}
+
+.space .row {
+	width: 1440px;
+     margin: auto;
+     padding-top: 100px;
+}
+
+.sites-for-watching .row {
+	width: 1440px;
+     margin: auto;
+     padding-top: 100px;
+}
+
+
+.filmovi .row {
+	width: 1440px;
+     margin: auto;
+     padding-top: 100px;
+}
+
+.games .row {
+	width: 1440px;
+     margin: auto;
+     padding-top: 100px;
+}
+
+.chess .chess:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+
+.chess .puzzle:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.sites-for-watching .tiktok:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.drustvene-mreze .instagram:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.drustvene-mreze .facebook:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.drustvene-mreze .google:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+
+}
+.sites-for-watching .youtube:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.sites-for-watching .olx:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.filmovi .soap:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.filmovi .hdsaprevodom:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.filmovi .movie:hover {
+	transition: 0.3s;
+	margin-top:+ -30px;
+}
+
+.games repack {
+	padding-left: 50px;
+}
+
+.games .skidrow:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.games .repack:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
+
+.games .codex:hover {
+	transition: 0.3s;
+	margin-top: -30px;
+}
